@@ -1,0 +1,28 @@
+.exam {
+    position: relative;
+    top: -70px;
+}
+
+.exam {
+    margin-bottom: 2.7rem;
+}
+
+h2 {
+    line-height: 2.3rem;
+    font-size: 1.8rem;
+}
+
+.clock {
+    position: relative;
+    top: -40px;
+}
+
+.clockdate-wrapper {
+    top: -60px;
+}
+
+.header__location {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
