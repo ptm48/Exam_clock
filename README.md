@@ -1,1 +1,3 @@
 # exam_clock
+
+(./img/)
