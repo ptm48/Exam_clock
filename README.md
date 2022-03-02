@@ -13,3 +13,8 @@ room to display the exam details and clock on a TV or screen. Simple mySql table
 **Login Page**
 
 ![Login page](img/login_page.png)
+
+
+**Exam Clock**
+
+![Exam clock page](img/exam_clock1.png)
